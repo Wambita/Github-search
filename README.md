@@ -23,7 +23,7 @@ This web application allows its page visitors to search for github registered us
 
 or just use this
 
-`$ git clone https://github.com/watibini/git-search.git/`
+`$ git clone https://github.com/Wambita/git-search.git/`
 
 ## Development server
 
