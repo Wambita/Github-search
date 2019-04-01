@@ -42,7 +42,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Use this link to see the web-page
 
-(<https://Wambita.github.io/git-search/>)
+(<https://Wambita.github.io/Github-search/>)
 
 ## Further help
 
