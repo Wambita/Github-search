@@ -2,7 +2,7 @@
   <div class="form-group">
     <label for="typeahead-http">Search for a github user:</label>
     <input id="typeahead-http" type="text" class="form-control" [class.is-invalid]="searchFailed" [(ngModel)]="model"
-      name="search" [ngbTypeahead]="search" placeholder="Github search" />
+      name="search"  placeholder="Github search" />
     <div *ngIf="searching"><img class="mt-2 rounded mx-auto d-block" src="/src/assets/giphy.gif" alt="loader..."></div>
     <div class="invalid-feedback" *ngIf="searchFailed">Sorry, suggestions could not be loaded.</div>
   </div>
